@@ -1,13 +1,13 @@
 ---
 title: Custom Crafter
-description: How to make a mock custom crafting systom with commands
+description: How to make a mock custom crafting system with commands
 category: Guides
 tags: [easy, guide]
 ---
 
 ## Introduction
 
-This is a guide on how to make a custom crafting systom with jest two command blocks. Some use cases could be a way to "craft" tools or weapons with a custom name and enchantments for a server or for a adventure map.
+This is a guide on how to make a custom crafting system with just two command blocks. Some use cases could be a way to "craft" tools or weapons with a custom name and enchantments for a server or for an adventure map.
 
 _**This systom was originally created by CrunchyCookie. All credit for this systom goes to him. You can find his video [here](https://www.youtube.com/watch?v=pzQzldaSORs).**_
 
